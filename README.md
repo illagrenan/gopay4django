@@ -54,7 +54,7 @@ Usage
         productName = "Jméno produktu",
         totalPrice = 1000,
         currency = "CZK",
-        firstName = "Adam,
+        firstName = "Adam",
         lastName = "Štrauch",
         city = "Hradec Králové",
         street = "Ve Stromovce 123",
